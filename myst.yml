@@ -2,9 +2,11 @@
 version: 1
 project:
   id: 8b7b6496-6743-49a9-9ff1-2cae777ff814
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
+  title: Hello World!
+  description: This is my MyST Website
+  keywords: []
+  authors: Zach Herbert
   github: https://github.com/zherbz/myst-exercise
   # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
